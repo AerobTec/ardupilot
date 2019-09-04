@@ -1,3 +1,6 @@
+# Ardupilot Project for AerobTec
+In this repository you will find all contribution from AerobTec company, into AR flight stack, related mostly to proprietary HW like Sinespin FOC ESC and comunication over CAN converter etc.
+
 # ArduPilot Project
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/ardupilot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
